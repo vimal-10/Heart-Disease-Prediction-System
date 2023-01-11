@@ -7,8 +7,12 @@ The project management life cycle is depicted and documented in the form of a Ga
 
 Project management WBS is shown in the Gantt Chart below:
 
+![image](https://user-images.githubusercontent.com/121602283/211845052-8ba3b8a0-62a6-4d27-85e4-155df6581b1a.png) <br><br>
+
 
 The system WBS for the Heart Disease Prediction System Project is shown below. This work breakdown structure is designed to divide the technical portion of the project into numerous modules, such as interface design, API administration, and Heart Disease Prediction:
+
+![Heart_Disease-WBS](https://user-images.githubusercontent.com/121602283/211845227-104bcc92-7cea-4fde-b600-500246e1fde1.png) <br><br>
 
 
 ### Scope
@@ -26,7 +30,7 @@ The scope of this heart disease prediction study must be determined. For example
 
 ### Responsibility Assignment Matrices (RAM)
 
-
+![RAM](https://user-images.githubusercontent.com/121602283/211846868-1fd203c1-098d-4b84-98ca-c06ac89df9fd.png)
 
 
 |Roles|<div style="width: 150px"> Person In Charge </div>|Responsibilities|
