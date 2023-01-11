@@ -33,3 +33,6 @@ First step of this project will be retrieve data from the database which consist
 ### Milestone Chart
 
  ![image](https://user-images.githubusercontent.com/120276263/211786519-8de40bbf-0f24-47e0-a6d3-ef690a01a59f.png)
+
+<br><br><br>
+##### Next: [Project Implementation](C-PROJECT_EXECUTION.md)
