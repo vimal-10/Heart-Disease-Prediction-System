@@ -34,10 +34,7 @@ At last we implemented the CNN technique using binary classification. We activat
  
 ![image](https://user-images.githubusercontent.com/120276263/211789589-c2f162d4-7701-45a0-951c-1c6a4f214bcf.png)
 
-
-
-
-
+<br><br>
 ## Project Result
 
  ![image](https://user-images.githubusercontent.com/120276263/211789658-10eacd7d-3079-4fce-9f4b-5f4c7e70840a.png)
@@ -45,3 +42,6 @@ At last we implemented the CNN technique using binary classification. We activat
 ![image](https://user-images.githubusercontent.com/120276263/211789693-1083b666-2bdf-4e0a-ac62-fe6c36e902a0.png)
 
 ![image](https://user-images.githubusercontent.com/120276263/211789720-3080ae5f-5899-49f7-9af5-036dc26ac66e.png)
+
+<br><br><br>
+##### Next: [Project Closing](E-PROJECT_CLOSING.md)
