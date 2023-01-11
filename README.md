@@ -9,5 +9,5 @@ The PMP-Plan created is just a collaborative simulation between third-party orga
 ## Project Plan Management
 
 ## Project Management Plan
-##### Project Summary: [Project Summary](PMP-PLAN/A-PROJECT_SUMMARY.md)
+##### Project Summary: [Project Summary](PMP - Plan/Project Summary)
 Project Summary give a brief overview of the project objectives and team members details. 
