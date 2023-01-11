@@ -22,4 +22,5 @@ In this study, we created a system that can efficiently find rules **to predict 
 + To enhance patient outcomes by assisting in the prevention or postponement of the start of cardiac disease.
 + To develop an application programming interface (API) for future usage as an integration module.
 
-
+<br><br><br>
+##### Next: [Project Planning](B-PROJECT_PLANNING.md)
