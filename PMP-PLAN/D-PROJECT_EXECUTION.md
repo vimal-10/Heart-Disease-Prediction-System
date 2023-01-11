@@ -36,6 +36,8 @@ At last we implemented the CNN technique using binary classification. We activat
 
 
 
+
+
 ## Project Result
 
  ![image](https://user-images.githubusercontent.com/120276263/211789658-10eacd7d-3079-4fce-9f4b-5f4c7e70840a.png)
