@@ -6,7 +6,7 @@
 
 #### 1. Customer Acceptance Form
 <br>
-![customer Form](https://user-images.githubusercontent.com/121602283/211955949-1c92f4b9-7e2b-435a-a804-aeb28c6c4cac.jpeg)
+![image](https://user-images.githubusercontent.com/121602283/211956303-088f125a-6348-4726-9e5e-2cf0ec5f0d42.png)
 
 
 #### 2. Lessons Learned Document
