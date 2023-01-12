@@ -4,14 +4,10 @@
 ### Closing Checklist
 <br>
 
-#### 1. Customer Acceptance Form
-<br>
-![image](https://user-images.githubusercontent.com/121602283/211956303-088f125a-6348-4726-9e5e-2cf0ec5f0d42.png)
+#### 1. Customer Acceptance Form <br>
 
 
-#### 2. Lessons Learned Document
-<br>
-![image](https://user-images.githubusercontent.com/121602283/211950933-f9809147-e9d5-490c-ad65-c88c61458b79.png)
+#### 2. Lessons Learned Document <br>
 
 <br><br>
 #### 3. Final Project Report
