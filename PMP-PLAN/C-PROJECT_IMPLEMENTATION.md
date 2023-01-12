@@ -26,9 +26,8 @@ First step of this project will be retrieve data from the database which consist
 | ---- | -------------- | ----- |
 | Construction supervision | $25000 | Supervision on the project |
 | Cultural resources | $80000 |	Investigation and evaluate undertaking |
-| Equipment and equipment use |	$500 | Equipment preparation and setup |
-| Project signs |	$600 | Installation of project signs |
-| TOTAL | $106100 |	Estimated |
+| Software upgrade |	$500 | Upgrade our internal software |
+| TOTAL | $105500 |	Estimated |
 
 ### Milestone Chart
 
