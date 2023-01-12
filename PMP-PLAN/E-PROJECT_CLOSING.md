@@ -5,6 +5,7 @@
 <br>
 
 #### 1. Customer Acceptance Form <br>
+![image](https://user-images.githubusercontent.com/121602283/211958121-1a802763-0130-40a7-b041-d6ad653fa92a.png)
 
 
 #### 2. Lessons Learned Document <br>
