@@ -12,7 +12,7 @@
 <br>
 ![image](https://user-images.githubusercontent.com/121602283/211950933-f9809147-e9d5-490c-ad65-c88c61458b79.png)
 
-<br>
+<br><br>
 #### 3. Final Project Report
 **HEART DISEASE PREDICTION SYSTEM**
 
@@ -25,8 +25,7 @@ After the heart disease prediction system completed, we have tested the accuracy
 **3.0 ORIGINAL AND ACTUAL SCHEDULE**
 The projects member sticks to the Gantt chart scheduled so, the actual fits the original schedule.
 
-<br>
-![image](https://user-images.githubusercontent.com/121602283/211845052-8ba3b8a0-62a6-4d27-85e4-155df6581b1a.png) <br><br>
+![image](https://user-images.githubusercontent.com/121602283/211955126-0ea88680-dec2-43af-b959-952bf395bb6b.png) <br><br>
 
 **4.0 ORIGINAL AND ACTUAL BUDGET**
 
