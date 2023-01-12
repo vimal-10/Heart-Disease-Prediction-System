@@ -6,9 +6,8 @@
 
 #### 1. Customer Acceptance Form
 <br>
-![image](https://user-images.githubusercontent.com/121602283/211950046-349a15e0-534f-431f-bf52-541c1bf321bc.png) 
+![image](https://user-images.githubusercontent.com/121602283/211950046-349a15e0-534f-431f-bf52-541c1bf321bc.png) <br>
 
-<br>
 #### 2. Lessons Learned Document
 <br>
 ![image](https://user-images.githubusercontent.com/121602283/211950933-f9809147-e9d5-490c-ad65-c88c61458b79.png)
@@ -27,7 +26,7 @@ After the heart disease prediction system completed, we have tested the accuracy
 The projects member sticks to the Gantt chart scheduled so, the actual fits the original schedule.
 
 <br>
-
+![image](https://user-images.githubusercontent.com/121602283/211845052-8ba3b8a0-62a6-4d27-85e4-155df6581b1a.png) <br><br>
 
 
 
