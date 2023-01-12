@@ -52,7 +52,9 @@ Our Staff will provide support when require, The main work of support provide by
 3)Provides users guidelines
 4)Report information to senior management on monthly basis
 
-#### 4. Close Contract
+#### 4. Close Contract <br>
+
+![image](https://user-images.githubusercontent.com/121602283/211956173-d50e54d3-fa03-4c68-86f0-4d5d7efeef22.png)
 
 
 
