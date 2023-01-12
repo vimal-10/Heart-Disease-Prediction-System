@@ -6,7 +6,7 @@
 
 #### 1. Customer Acceptance Form
 <br>
-![image](https://user-images.githubusercontent.com/121602283/211950046-349a15e0-534f-431f-bf52-541c1bf321bc.png) <br>
+
 
 #### 2. Lessons Learned Document
 <br>
@@ -28,6 +28,11 @@ The projects member sticks to the Gantt chart scheduled so, the actual fits the 
 <br>
 ![image](https://user-images.githubusercontent.com/121602283/211845052-8ba3b8a0-62a6-4d27-85e4-155df6581b1a.png) <br><br>
 
+**4.0 ORIGINAL AND ACTUAL BUDGET**
+
+The actual budget matches the initial budget, indicating that the team adhered to the budget established at the start of the project and did not overspend.
+
+![image](https://user-images.githubusercontent.com/121602283/211954937-6a445d9c-0e5e-4374-864a-fbd6b1406564.png)
 
 
 
