@@ -9,10 +9,8 @@
 
 
 #### 2. Lessons Learned Document <br>
-![image](https://user-images.githubusercontent.com/121602283/211958235-37079596-4dc8-4dfd-8c32-07fbf84d328e.png) <br>
+![image](https://user-images.githubusercontent.com/121602283/211958235-37079596-4dc8-4dfd-8c32-07fbf84d328e.png) <br><br>
 
-
-<br><br>
 #### 3. Final Project Report
 **HEART DISEASE PREDICTION SYSTEM**
 
