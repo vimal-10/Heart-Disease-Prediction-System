@@ -1,4 +1,41 @@
-# E. PROJECT CLOSING
+# PROJECT OVERVIEW
+
+## E. COMPLETING THE PROJECT
+### Closing Checklist
+<br>
+
+#### 1. Customer Acceptance Form
+<br>
+![image](https://user-images.githubusercontent.com/121602283/211950046-349a15e0-534f-431f-bf52-541c1bf321bc.png) 
+
+<br>
+#### 2. Lessons Learned Document
+<br>
+![image](https://user-images.githubusercontent.com/121602283/211950933-f9809147-e9d5-490c-ad65-c88c61458b79.png)
+
+<br>
+#### 3. Final Project Report
+**HEART DISEASE PREDICTION SYSTEM**
+
+**1.0 PROJECT OBJECTIVES**
+The heart disease prediction system was intended to develop an artificial intelligence system that are able to detect the heart disease of a patient and also predict the risk level of that patient with more accuracy. 
+
+**2.0 SUMMARY OF PROJECT RESULTS**
+After the heart disease prediction system completed, we have tested the accuracy of the system which is more than 70%.
+
+**3.0 ORIGINAL AND ACTUAL SCHEDULE**
+The projects member sticks to the Gantt chart scheduled so, the actual fits the original schedule.
+
+<br>
+
+
+
+
+
+
+
+
+
 
 <br><br><br>
 ##### Next: [Project Presentation](F-PROJECT_PRESENTATION.md)
